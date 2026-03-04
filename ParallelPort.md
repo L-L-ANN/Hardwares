@@ -1,6 +1,6 @@
 # Event Triggering with Parallel Port  
 
-This guide describes standard procedures for sending Event triggers using the parallel port in PsychoPy.
+This guide describes standard procedures for sending *Event triggers* using the parallel port in PsychoPy
 
 Basic Trigger Template
 ```python
