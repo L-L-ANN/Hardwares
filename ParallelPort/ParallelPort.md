@@ -2,7 +2,9 @@
 
 This guide describes standard procedures for sending *Event Triggers* using the parallel port in PsychoPy
 
-**Basic Trigger Template**
+
+## Basic Trigger Template
+
 ```python
 from psychopy import parallel
 import time
@@ -28,7 +30,7 @@ send_trigger(4)   # Event type 3 (00000100)
 time.sleep(1.0)
 ```
 
-**Precise Timing Trigger Template** 
+## Precise Timing Trigger Template
 
 Typical monitors refresh at ~60 Hz (~16.67 ms per frame). If you send triggers using time.sleep() alone, the exact timing may vary due to CPU delays. <br>
 
