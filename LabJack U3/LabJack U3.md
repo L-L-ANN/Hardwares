@@ -1,5 +1,4 @@
 # Analog Input with LabJack U3 
-
 This guide describes standard procedures for receiving *Analog Input* using the LabJack U3 (https://labjack.com/products/u3-hv) in PsychoPy<br><br>  
 
 ## Prerequites 
@@ -10,7 +9,6 @@ These steps have already been installed on the 2056A and 2056B Stim computers
    (https://support.labjack.com/docs/ud-software-installer-downloads-u3-u6-ue9)
 
 2. Install the LabJack Support (LabJackPython) plugin via PsychoPy → Tools → Plugin/Package Manager  
-
 
 ## Basic Analog Input Template
 
