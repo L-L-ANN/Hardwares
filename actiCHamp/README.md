@@ -6,3 +6,5 @@ This guide describes additional hardware inferace procedures for actiCHamp Plus 
 Python: RDA3.py 
 
 MATLAB: RDAClient.m
+
+BrainVision RDA program (https://github.com/labstreaminglayer/App-BrainProducts/tree/master/BrainVisionRDA)
