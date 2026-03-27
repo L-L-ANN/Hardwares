@@ -7,4 +7,5 @@ Python: RDA3.py
 
 MATLAB: RDAClient.m
 
-BrainVision RDA program (https://github.com/labstreaminglayer/App-BrainProducts/tree/master/BrainVisionRDA)
+BrainVision RDA program (https://github.com/brain-products/LSL-BrainVisionRDA) 
+Of note, you do need mne-lsl, pylsl, and scipy to be downloaded as well (which you typically do with pip install in the command prompt console)
