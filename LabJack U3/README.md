@@ -3,7 +3,7 @@ This guide describes standard procedures for receiving *Analog Input* using the 
 
 ## Prerequites 
 
-These steps have already been installed on the 2056A and 2056B Stim computers
+These steps have already been installed on the 2056B Stim computers
 
 1. Install the LabJack UD Software Windows Installer Package 
    (https://support.labjack.com/docs/ud-software-installer-downloads-u3-u6-ue9)
