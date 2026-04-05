@@ -14,5 +14,5 @@ Acqknowledge 6
 
 <br>
 
-## EYELOGIC
-LogicOne
+## EyeLogic
+LogicOne 60
