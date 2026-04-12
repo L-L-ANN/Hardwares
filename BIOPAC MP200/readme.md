@@ -1,6 +1,6 @@
 # BIOPAC Developer Suites 
 
-Our lab also purchased the BIOPAC Devloper Suites license, which is installed on the BIOPAC laptop.
+Our lab purchased the BIOPAC Devloper Suites license, which is installed on the BIOPAC laptop.
 
 1. BIOPAC Basic Scripting and Workflow
 2. Network Data Tranfer (NDT)
