@@ -1,6 +1,6 @@
 # EyeLogic
 This guide describes standard procedures for interfacing the EyeLogic LogicOne 60 eye tracker with python. <br> 
-The EyeLogic Server and SDK (Windows) must be installed (already installed on the 2026B Stim computer). <br><br>
+The EyeLogic Server and SDK (Windows only) must be installed (already installed on the 2026B Stim computer). <br><br>
 
 
 ## PsychoPy Plugin
