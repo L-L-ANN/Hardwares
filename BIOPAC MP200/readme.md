@@ -1,3 +1,12 @@
+# BIOPAC Developer Suites 
+
+Our lab also purchased the BIOPAC Devloper Suites license, which is installed on the BIOPAC laptop.
+
+1. BIOPAC Basic Scripting and Workflow
+2. Network Data Tranfer (NDT)
+3. Hardware API
+4. Software API 
+
 # BIOPAC MP200 Netwrok Data Transfer (NDT) 
 
 BIOPAC Network data transfer (NDT) allows for analog, digital,
@@ -33,4 +42,7 @@ will continue to be processed on threads.
 
 7)  Release resources used and halt data processing with
 AcqNdtDataServer.Stop().
+<br>
 
+# BIOPAC Hareware API (BHAPI)
+The BIOPAC Hardware API allows software developers to control BIOPAC acquisition units *directly*, without using AcqKnowledge.
