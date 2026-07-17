@@ -11,7 +11,7 @@ PsychoPy also support the dedicated plugin. Download the Plugin "Gazepoint Eyetr
 This eyetracker supports demo codes of PsychoPy (Demos/iohub/eyetacking). You simply need to set TRACKER = 'gazepoint' to test it. 
 <br>
 
-## PyGaze 
-The PyGaze,  an open-source python toolbox, also supports Gazepoint eye tracker. (https://www.pygaze.org/about/).
+## PyGaze https://github.com/esdalmaijer/PyGazeAnalyser
+The PyGaze,  an open-source python toolbox, also supports Gazepoint eye tracker (https://www.pygaze.org/about/). Alo, PyGazeAnalyser is also available (https://github.com/esdalmaijer/PyGazeAnalyser).
 
 
