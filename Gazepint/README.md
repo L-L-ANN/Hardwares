@@ -8,4 +8,4 @@ PsychoPy also support the dedicated plugin. Download the Plugin "Gazepoint Eyetr
 <br>
 
 ## PsychoPy
-This eyetracker supports demo codes of PsychoPy (Demos/iohub/eyetacking). We simply need to set TRACKER = 'gazepoint' to test it. 
+This eyetracker supports demo codes of PsychoPy (Demos/iohub/eyetacking). You simply need to set TRACKER = 'gazepoint' to test it. 
