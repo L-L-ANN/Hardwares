@@ -4,7 +4,7 @@ The Gazepoint Control software (Windows only) must be installed (already install
 
 
 ## PsychoPy Plugin
-PsychoPy also support the dedicated plugin. Download the Plugin "Gazepoint Eyetracker Support" (psychopy-eyetracker-gazepoint) in the Plugin Manager.
+PsychoPy supports the dedicated plugin. Download the Plugin "Gazepoint Eyetracker Support" (psychopy-eyetracker-gazepoint) in the Plugin Manager.
 <br>
 
 ## PsychoPy
