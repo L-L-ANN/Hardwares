@@ -26,3 +26,8 @@ LogicOne 60
 
 ## Gazepoint 
 GP3 HD Eye Tracker 150Hz
+
+<br>
+
+## Ergometer 
+Lode Corival Ergometer – CPET system
